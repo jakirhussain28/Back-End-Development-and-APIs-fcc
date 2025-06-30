@@ -1,0 +1,12 @@
+{
+  "name": "how-to-use-json-npm-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jakir Hussain",
+  "license": "ISC",
+  "description": ""
+}
